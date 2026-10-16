@@ -1,6 +1,6 @@
 # Rania Dridi
 
-Diplômée en Informatique de Gestion (Business Information System, Esprit School of Business, 2026).
+Diplômée en Informatique de Gestion (Business Information System).
 Développement full-stack, tests logiciels et analyse de données.
 
 Portfolio : https://rania-dridi.github.io · [LinkedIn](https://www.linkedin.com/in/rania-dridi-a5a733397/) · randridi131117@gmail.com
