@@ -9,8 +9,6 @@ Portfolio : https://rania-dridi.github.io · [LinkedIn](https://www.linkedin.com
 
 | Projet | Stack | Description |
 |--------|-------|-------------|
-| [wledi-academy-frontend](https://github.com/Rania-Dridi/wledi-academy-frontend) | React 18, TypeScript, Vite, Tailwind CSS | PFE chez Audasoft Technology : interfaces élève, parent, professeur, école et admin de la plateforme e-learning Wledi |
-| [wledi-academy-backend](https://github.com/Rania-Dridi/wledi-academy-backend) | Go, Gin, PostgreSQL | PFE : API REST en couches Router, Handler, Service, Repository ; paiement, e-mail, IA et médias ; tests d'intégration |
 | [layered-api-go](https://github.com/Rania-Dridi/layered-api-go) | Go | Extrait autonome de l'architecture en couches, avec tests |
 | [revenue-analysis-crispdm](https://github.com/Rania-Dridi/revenue-analysis-crispdm) | Python, pandas, matplotlib | Analyse des revenus selon CRISP-DM (données synthétiques) |
 | [freelance-platform](https://github.com/Rania-Dridi/freelance-platform) | PHP, Laravel, SQLite/MySQL | FreelancePro : missions, candidatures, rôles client, freelance et admin |
